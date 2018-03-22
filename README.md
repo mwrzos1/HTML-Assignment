@@ -1,1 +1,1 @@
-Assignment purpose is to understand the foundation of HTML
+Assignment's purpose is to understand the foundation of HTML
